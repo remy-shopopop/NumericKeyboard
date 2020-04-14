@@ -1,7 +1,7 @@
 package com.konaire.sample
 
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
+import android.support.v7.app.AppCompatActivity
 
 /**
  * Created by Evgeny Eliseyev on 10/02/2018.
