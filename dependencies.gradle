@@ -1,5 +1,5 @@
 ext {
-    sharedSdkVersion = 29
+    sharedSdkVersion = 27
     sharedMinSdkVersion = 15
     sharedBuildToolsVersion = "29.0.3"
 
